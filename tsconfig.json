@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es6", /* Set the JavaScript */
+    "forceConsistentCasingInFileNames": true, /* Ensure that casing is correct in imports. */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  }
+}
